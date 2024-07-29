@@ -1,0 +1,24 @@
+# Site settings
+title: Health research in the Digital Health Group at Aberystwyth University
+lab_name: Digital Health Group
+author: >
+  Faisal Rezwan
+institution: ABER
+email: f.rezwan@aber.ac.uk
+description: >
+  The Digital Health Group performs cutting-edge health research using
+  a combination of bioinformatics and artificial intelligence.
+baseurl: ""
+url: "https://https://faisalrezwan.github.io/"
+github_username:  faisalrezwan
+images_dir: "/images/"
+
+# Build settings
+markdown: kramdown
+include: ["_pages"]
+permalink: /:title/
+
+#plugins for search engine optimization
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

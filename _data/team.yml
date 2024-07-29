@@ -1,0 +1,31 @@
+- name: Dr. Faisal I Rezwan
+  is_pi: True
+  is_current: True
+  position: Senior Lecturer
+  orcid:  https://orcid.org/0000-0001-9921-222X
+  github: https://github.com/FaisalRezwan/
+  bio: >
+    What a bio!
+  photo: team/RezwanF.png
+
+
+- name: Dr. X
+  is_pi: False
+  is_current: True
+  position: Staff Scientist
+  github: https://github.com/drx
+  orcid: https://orcid.org/drx
+  bio: >
+    Bio2
+  photo: team/images.jpeg
+
+- name: Dr. Y
+  is_pi: False
+  is_current: False
+  position: Staff Scientist
+  github: https://github.com/drx
+  orcid: https://orcid.org/drx
+  bio: >
+    Bio2
+  photo: team/images.jpeg
+

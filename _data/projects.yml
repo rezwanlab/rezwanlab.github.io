@@ -1,0 +1,15 @@
+- name: Speech breathing
+  description: >
+    Description1.
+  funding: funding1
+  collaborators: Collaborators1
+  assignees: Assignees1
+  photo: projects/dhitsig.png
+
+- name: 3D ECG
+  description: >
+    Description2.
+  funding: funding2
+  collaborators: Collaborators2
+  assignees: Assignees2
+  photo: projects/dhitsig.png
