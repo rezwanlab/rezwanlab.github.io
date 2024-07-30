@@ -28,4 +28,14 @@
   bio: >
     Bio2
   photo: team/images.jpeg
+  
 
+- name: Dr. Z
+  is_pi: False
+  is_current: False
+  position: Staff Scientist
+  github: https://github.com/drx
+  orcid: https://orcid.org/drx
+  bio: >
+    Bio2
+  photo: team/images.jpeg
