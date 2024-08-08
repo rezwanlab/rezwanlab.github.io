@@ -29,7 +29,7 @@
 
 - name: Dr. Laura Hilton
   is_pi: False
-  is_current: True
+  is_current: False
   position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
   github: https://github.com/lkhilton
   orcid: https://orcid.org/0000-0002-6413-6586
