@@ -1,49 +1,21 @@
-- name: Dr. Ryan D. Morin
+- name: Dr. Faisal I Rezwan
   is_pi: True
   is_current: True
-  position: Professor
-  orcid:  https://orcid.org/0000-0003-2932-7800
-  scholar: https://scholar.google.ca/citations?user=IDau0mkAAAAJ&hl=en
-  researchgate: https://www.researchgate.net/profile/Ryan_Morin
-  github: https://github.com/rdmorin
-  twitter: https://twitter.com/morinryan
+  position: Group Leader
+  orcid:  https://orcid.org/0000-0001-9921-222X
+  github: https://github.com/frezwan
   bio: >
-    I am in the department of <a href="http://www.sfu.ca/mbb.html">Molecular Biology and Biochemistry</a> at
-    <a href="http://www.sfu.ca">Simon Fraser University</a> and hold a Scientist appointment in the <a href="http://www.bcgsc.ca">BC Cancer Genome Sciences Centre</a>.
-    I completed my MSc and PhD in bioinformatics at UBC in the laboratory of
-    Marco Marra.
-    My early research involved the use of massively parallel
-    sequencing to identify driver mutations in leukemias and lymphomas
-    including histone modifiers such as <a href="https://www.ncbi.nlm.nih.gov/pubmed/20081860">EZH2</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/21796119">KMT2D</a>.
-    My current research focus involves using genome and transcriptome
-    sequencing to discover novel drivers in B-cell lymphomas and to
-    determine mechanisms that underlie tumour progression and treatment
-    resistance.
-    I have a general interest in developing methods to identify non-coding
-    mutations with regulatory potential from genome-wide data sets and
-    error-corrected sequencing strategies and algorithms to identify mutations and copy number from circulating
-    tumour DNA (<a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">ctDNA</a>). Dr. Morin is a Scholar of the <a href="https://www.msfhr.org/">Michael Smith Foundation for Health Research</a>.
+    What a bio!
 
   photo: team/RezwanF.png
 
 
-- name: Dr. Laura Hilton
+- name: Arvind Mistry
   is_pi: False
   is_current: False
-  position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
-  github: https://github.com/lkhilton
-  orcid: https://orcid.org/0000-0002-6413-6586
+  position: Scientist
   bio: >
-    B-cell non-Hodgkin lymphomas have a high frequency of driver structural
-    variants, especially those that involve placing the oncogenes MYC, BCL2,
-    BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
-    My project utilizes whole genome and targeted sequencing to characterize
-    these driver SVs across B-NHLs with a goal of understanding the mechanisms
-    by which they arise. I'm also interested in using gene expression and
-    mutation data to facilitate the classification of rare and/or poorly
-    characterized lymphomas, to identify progonostic and predictive biomarkers
-    and targetable vulnerabilities that can be exploited in the development
-    of novel therapies.
+    BIO2.
   photo: team/AMistry.jpg
 
 
