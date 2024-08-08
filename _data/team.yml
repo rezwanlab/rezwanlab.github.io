@@ -1,18 +1,19 @@
 - name: Dr. Faisal I Rezwan
   is_pi: True
   is_current: True
-  position: Senior Lecturer
+  position: Principal Investigator
   orcid:  https://orcid.org/0000-0001-9921-222X
   github: https://github.com/FaisalRezwan/
   bio: >
     What a bio!
   photo: team/RezwanF.png
 
-
 - name: Dr. Arvind Mistry
   is_pi: False
   is_current: True
   position: Scientist
+  orcid:  https://orcid.org/0000-0001-9921-222X
+  github: https://github.com/FaisalRezwan/
   bio: >
     Bio2
   photo: team/AMistry.jpg
@@ -21,6 +22,8 @@
   is_pi: False
   is_current: True
   position: Scientist
+  orcid:  https://orcid.org/0000-0001-9921-222X
+  github: https://github.com/FaisalRezwan/
   bio: >
     Bio3
   photo: team/JCannon.jpeg
@@ -33,5 +36,5 @@
   github: https://github.com/drx
   orcid: https://orcid.org/drx
   bio: >
-    Bio2
+    Bio4
   photo: team/images.jpeg
