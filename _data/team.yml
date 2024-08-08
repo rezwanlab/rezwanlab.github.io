@@ -13,22 +13,18 @@
   is_pi: False
   is_current: True
   project: 3D-ECG
-  position: Staff Scientist
-  github: https://github.com/drx
-  orcid: https://orcid.org/drx
+  position: Scientist
   bio: >
     Bio2
-  photo: team/images.jpeg
+  photo: team/AMistry.jpg
 
-- name: Dr. Y
+- name: Dr. John Cannon
   is_pi: False
-  is_current: False
-  position: Staff Scientist
-  github: https://github.com/drx
-  orcid: https://orcid.org/drx
+  is_current: True
+  position: Scientist
   bio: >
-    Bio2
-  photo: team/images.jpeg
+    Bio3
+  photo: team/JCannon.jpeg
   
 
 - name: Dr. Z
