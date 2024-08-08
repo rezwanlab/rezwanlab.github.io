@@ -10,12 +10,23 @@
   photo: team/RezwanF.png
 
 
-- name: Arvind Mistry
+- name: Arvind
   is_pi: False
   is_current: False
-  position: Scientist
+  position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
+  github: https://github.com/lkhilton
+  orcid: https://orcid.org/0000-0002-6413-6586
   bio: >
-    BIO2.
+    B-cell non-Hodgkin lymphomas have a high frequency of driver structural
+    variants, especially those that involve placing the oncogenes MYC, BCL2,
+    BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
+    My project utilizes whole genome and targeted sequencing to characterize
+    these driver SVs across B-NHLs with a goal of understanding the mechanisms
+    by which they arise. I'm also interested in using gene expression and
+    mutation data to facilitate the classification of rare and/or poorly
+    characterized lymphomas, to identify progonostic and predictive biomarkers
+    and targetable vulnerabilities that can be exploited in the development
+    of novel therapies.
   photo: team/AMistry.jpg
 
 
