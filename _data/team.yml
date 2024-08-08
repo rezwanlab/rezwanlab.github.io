@@ -12,7 +12,6 @@
 - name: Dr. Arvind Mistry
   is_pi: False
   is_current: True
-  project: 3D-ECG
   position: Scientist
   bio: >
     Bio2
