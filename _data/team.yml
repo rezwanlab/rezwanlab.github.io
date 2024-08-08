@@ -9,9 +9,10 @@
   photo: team/RezwanF.png
 
 
-- name: Dr. X
+- name: Dr. Arvind Mistry
   is_pi: False
   is_current: True
+  project: 3D-ECG
   position: Staff Scientist
   github: https://github.com/drx
   orcid: https://orcid.org/drx
