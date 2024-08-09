@@ -16,7 +16,7 @@
 
 - name: Dr. Arvind Mistry
   is_pi: False
-  is_current: False
+  is_current: True
   position: Collaborator Scientist
   bio: >
     Expert in 3D-ECG.
@@ -37,7 +37,6 @@
     British Society for Heart Failure and a Fellow of the Royal Society of Arts. 
     John was appointed Regional Medical Ambassador for the Atrial Fibrillation Association (AFA) 
     in 2020 and became one of its Trustees in 2022 and is a judge in the Global Healthcare Pioneer Awards. 
-
   photo: team/JCannon.jpeg
 
 
