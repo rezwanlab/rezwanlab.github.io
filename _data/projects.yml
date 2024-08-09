@@ -4,11 +4,19 @@
   funding: funding1
   collaborators: Collaborators1
   assignees: Assignees1
-  photo: projects/dhitsig.png
+  photo: projects/Speech-Breathing.png
 
 - name: A 3D electrocardiogram (ECG) analyser model
   description: >
     We have developed a prototype software tool to visualise the electrical signature of heart produced from electrocardiogram (ECG) data. These new tool generates a summary description of the electrical signature in a numerical format for data analysis to produce initial 3D shapes of heart signals.This pilot project aims to develop robust software package which can produce a 3D visualisation of heart and integrate the functionality of diagnosing various heart conditions, with the use of 3D shape recognition, utilising machine learning, to mark the position of defect in the heart related to the condition.
+  funding: funding2
+  collaborators: Collaborators2
+  assignees: Assignees2
+  photo: projects/dhitsig.png
+  
+- name: Prediction model for pediatric asthma
+  description: >
+    Respiratory symptoms are common in early life and often transient. It is difficult to identify in which children these will persist and result in asthma. Machine learning (ML) approaches have the potential for better predictive performance and generalisability over existing childhood asthma prediction models. This study applied machine learning approaches to predict school-age asthma (age 10) in early life and at preschool age.
   funding: funding2
   collaborators: Collaborators2
   assignees: Assignees2
