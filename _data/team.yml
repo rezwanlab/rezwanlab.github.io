@@ -14,24 +14,31 @@
   photo: team/RezwanF.png
 
 
-- name: Dr. Laura Hilton
+- name: Dr. Arvind Mistry
   is_pi: False
   is_current: False
-  position: Staff Scientist, BC Cancer Centre for Lymphoid Cancer
-  github: https://github.com/lkhilton
-  orcid: https://orcid.org/0000-0002-6413-6586
+  position: Collaborator Scientist
   bio: >
-    B-cell non-Hodgkin lymphomas have a high frequency of driver structural
-    variants, especially those that involve placing the oncogenes MYC, BCL2,
-    BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
-    My project utilizes whole genome and targeted sequencing to characterize
-    these driver SVs across B-NHLs with a goal of understanding the mechanisms
-    by which they arise. I'm also interested in using gene expression and
-    mutation data to facilitate the classification of rare and/or poorly
-    characterized lymphomas, to identify progonostic and predictive biomarkers
-    and targetable vulnerabilities that can be exploited in the development
-    of novel therapies.
+    Expert in 3D-ECG.
   photo: team/AMistry.jpg
+
+- name: Dr. John Cannon
+  is_pi: False
+  is_current: False
+  position: Collaborator Scientist
+  bio: >
+    Dr John Cannon has been a general practitioner in Suffolk for over 40 years 
+    half spent as senior partner. He is a Fellow of the Royal College of GPs. 
+    John has worked as a Visiting Fellow in Medicine at the Massachusetts General 
+    Hospital involving tuition of students from Harvard University Medical School. 
+    He was a founder member of the U.K.’s Primary Care Cardiovascular Society, 
+    Suffolk's Cardiovascular Consensus Group and the Primary Care Research Network 
+    for East Anglia. He is a member of the British Hypertension Society, the 
+    British Society for Heart Failure and a Fellow of the Royal Society of Arts. 
+    John was appointed Regional Medical Ambassador for the Atrial Fibrillation Association (AFA) 
+    in 2020 and became one of its Trustees in 2022 and is a judge in the Global Healthcare Pioneer Awards. 
+
+  photo: team/JCannon.jpeg
 
 
   
