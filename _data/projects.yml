@@ -1,14 +1,14 @@
-- name: Speech breathing
+- name: Utilisation of recorded voice samples for developing a machine learning framework to predict pulmonary functions
   description: >
-    Description1.
+    We designed a threshold-based mechanism to separate speech and breathing from voice recordings in controlled environment and developed machine learning (ML) models 	which can predict lung function, severity of lung function abnormality and lung function abnormality.The findings from this project will not only address the challenge of handling voice recording data for appropriately separating speech and breathing to extract features to develop prediction models with high accuracy but also have potential in implementing as a smartphone application in the future, offering a convenient and straightforward way to assess respiratory health for individuals.
   funding: funding1
   collaborators: Collaborators1
   assignees: Assignees1
   photo: projects/dhitsig.png
 
-- name: 3D ECG
+- name: A 3D electrocardiogram (ECG) analyser model
   description: >
-    Description2.
+    We have developed a prototype software tool to visualise the electrical signature of heart produced from electrocardiogram (ECG) data. These new tool generates a summary description of the electrical signature in a numerical format for data analysis to produce initial 3D shapes of heart signals.This pilot project aims to develop robust software package which can produce a 3D visualisation of heart and integrate the functionality of diagnosing various heart conditions, with the use of 3D shape recognition, utilising machine learning, to mark the position of defect in the heart related to the condition.
   funding: funding2
   collaborators: Collaborators2
   assignees: Assignees2
