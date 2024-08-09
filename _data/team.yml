@@ -5,7 +5,7 @@
   orcid:  https://orcid.org/0000-0001-9921-222X
   github: https://github.com/frezwan
   bio: >
-    Faisal Ibne Rezwan received a Ph.D. degree in Bioinformatics from the 
+    Dr. Rezwan received a Ph.D. degree in Bioinformatics from the 
     University of Hertfordshire (UK) in 2012 and joined the University of 
     Southampton as a research fellow in bioinformatics. Later he joined to 
     Cranfield University (UK) as a lecturer in Bioinformatics. He is currently 
@@ -19,7 +19,16 @@
   is_current: True
   position: Collaborator Scientist
   bio: >
-    Expert in 3D-ECG.
+    Dr Mistry has been a general practitioner in Suffolk for over 40 years 
+    half spent as senior partner. He is a Fellow of the Royal College of GPs. 
+    John has worked as a Visiting Fellow in Medicine at the Massachusetts General 
+    Hospital involving tuition of students from Harvard University Medical School. 
+    He was a founder member of the U.K.’s Primary Care Cardiovascular Society, 
+    Suffolk's Cardiovascular Consensus Group and the Primary Care Research Network 
+    for East Anglia. He is a member of the British Hypertension Society, the 
+    British Society for Heart Failure and a Fellow of the Royal Society of Arts. 
+    John was appointed Regional Medical Ambassador for the Atrial Fibrillation Association (AFA) 
+    in 2020 and became one of its Trustees in 2022 and is a judge in the Global Healthcare Pioneer Awards. 
   photo: team/AMistry.jpg
 
 - name: Dr. John Cannon
@@ -27,7 +36,7 @@
   is_current: False
   position: Collaborator Scientist
   bio: >
-    Dr John Cannon has been a general practitioner in Suffolk for over 40 years 
+    Dr Cannon has been a general practitioner in Suffolk for over 40 years 
     half spent as senior partner. He is a Fellow of the Royal College of GPs. 
     John has worked as a Visiting Fellow in Medicine at the Massachusetts General 
     Hospital involving tuition of students from Harvard University Medical School. 
